@@ -1,0 +1,23 @@
+.hero-container {
+    height: 600px;
+    background-color: black;
+}
+
+.hero-container-image {
+    background-image: url(https://i0.wp.com/www.sanantoniomusicschools.com/wp-content/uploads/2020/08/experienced-master-piano-hand.jpg?fit=2000%2C1334&ssl=1);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height:100%;
+    opacity: 80%;
+}
+
+.hero-text-wrapper {
+    background-color: rgb(0,0,0,0.85);
+    color: #A8A184;
+    padding: 20px;
+    width: fit-content;
+    position: relative;
+    left: 10%;
+    bottom: -75%;
+}

@@ -1,0 +1,18 @@
+.section-text {
+    background-color: black;
+    color: #A8A184;
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.section-text h1 {
+    font-size: 18px;
+    font-weight: 500;
+    padding-bottom: 10px;
+}
+
+.section-text p {
+    font-size: 16px;
+}
